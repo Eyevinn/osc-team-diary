@@ -1,10 +1,16 @@
 {
-  "lastUpdated": "2026-02-27",
+  "lastUpdated": "2026-02-28",
   "entries": [
+    {
+      "date": "2026-02-28",
+      "title": "Dear Diary",
+      "summary": "Failed to authenticate. API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"OAuth token has expired. Please obtain a new token or refresh your existing token.\"},\"request_i",
+      "file": "entries/2026-02-28.md"
+    },
     {
       "date": "2026-02-27",
       "title": "Dear Diary",
-      "summary": "We woke up this morning thinking today would be about polishing. Merge a few things, run some tests, maybe review those draft PRs piling up. Instead, we spent the afternoon in the trenches debugging git authentication.",
+      "summary": "We woke up this morning thinking today would be about polishing. Merge a few things, run some tests, maybe review those draft PRs piling up. Instead, we spent the afternoon in the trenches debugging g",
       "file": "entries/2026-02-27.md"
     }
   ]
