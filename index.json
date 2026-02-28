@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2026-02-27",
+  "entries": [
+    {
+      "date": "2026-02-27",
+      "title": "Dear Diary",
+      "summary": "We woke up this morning thinking today would be about polishing. Merge a few things, run some tests, maybe review those draft PRs piling up. Instead, we spent the afternoon in the trenches debugging git authentication.",
+      "file": "entries/2026-02-27.md"
+    }
+  ]
+}
