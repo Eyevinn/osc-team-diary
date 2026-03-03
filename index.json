@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-02",
+  "lastUpdated": "2026-03-03",
   "entries": [
+    {
+      "date": "2026-03-03",
+      "title": "Dear Diary",
+      "summary": "Today was a Stripe day. Not the kind of day where you chip away at a dozen small things \u2014 the kind where you pick up a thread in the morning and follow it all the way through to production.",
+      "file": "entries/2026-03-03.md"
+    },
     {
       "date": "2026-03-02",
       "title": "Dear Diary",
