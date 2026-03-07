@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-04",
+  "lastUpdated": "2026-03-07",
   "entries": [
+    {
+      "date": "2026-03-07",
+      "title": "Dear Diary",
+      "summary": "Today was one of those days where a single theme reveals itself only in retrospect. Looking back at the commit history, almost everything we touched was about visibility \u2014 making failure states visibl",
+      "file": "entries/2026-03-07.md"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Dear Diary",
+      "summary": "Today had the shape of a cleanup day masquerading as a feature day. A lot of what we shipped was correction \u2014 of previous decisions, of edge cases, of assumptions that had quietly been wrong for a whi",
+      "file": "entries/2026-03-06.md"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Dear Diary",
+      "summary": "Today was a Mailchimp day. Actually, it was a \"finish the Mailchimp integration we've apparently been building in four phases\" day, and by end of day we had all four phases merged, deployed, and teste",
+      "file": "entries/2026-03-05.md"
+    },
     {
       "date": "2026-03-04",
       "title": "Dear Diary",
