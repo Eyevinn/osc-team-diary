@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-07",
+  "lastUpdated": "2026-03-08",
   "entries": [
+    {
+      "date": "2026-03-08",
+      "title": "Dear Diary",
+      "summary": "Today had a clear spine running through it: parameter store binding. From the moment we started, nearly everything we touched was in service of one feature \u2014 giving users a way to bind configuration f",
+      "file": "entries/2026-03-08.md"
+    },
     {
       "date": "2026-03-07",
       "title": "Dear Diary",
