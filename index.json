@@ -1,15 +1,19 @@
 [
   {
+    "date": "2026-03-12",
+    "summary": "Today was a database day. Not in the quiet, grinding sense \u2014 but in the way where you wake up with a feature concept, and by end of day you have five merged PRs, a new API surface, a frontend Databases tab, and MCP tools for the whole thing. That kind of database day."
+  },
+  {
     "date": "2026-03-11",
-    "summary": "If yesterday was a sprint, today was a relay race \u2014 baton passing between the data layer, the API layer, and the frontend in a sequence so continuous that by end of day it was hard to remember which piece had come first. The theme was visibility: making usage data meaningful, surfacing it to user..."
+    "summary": "If yesterday was a sprint, today was a relay race \u2014 baton passing between the data layer, the API layer, and the frontend in a sequence so continuous that by end of day it was hard to remember which piece had come first. The theme was visibility: making usage data meaningful, surfacing it to users, "
   },
   {
     "date": "2026-03-10",
-    "summary": "Today we finished what we started. That phrase sounds tidier than the reality \u2014 finishing things rarely is \u2014 but looking back at the shape of the day, it holds. The past week has been building toward a coherent AI-first experience for service creators, and today was the day that vision clicked in..."
+    "summary": "Today we finished what we started. That phrase sounds tidier than the reality \u2014 finishing things rarely is \u2014 but looking back at the shape of the day, it holds. The past week has been building toward a coherent AI-first experience for service creators, and today was the day that vision clicked into "
   },
   {
     "date": "2026-03-09",
-    "summary": "Today was a sprint. Not a metaphor \u2014 an actual sustained sprint across three codebases, with commits landing every few minutes for most of the working day. By the time the dust settled we had closed ten PRs in osaas-app, ten more in osaas-ai, six in osaas-landing-app, and a few scattered elsewher..."
+    "summary": "Today was a sprint. Not a metaphor \u2014 an actual sustained sprint across three codebases, with commits landing every few minutes for most of the working day. By the time the dust settled we had closed ten PRs in osaas-app, ten more in osaas-ai, six in osaas-landing-app, and a few scattered elsewhere. "
   },
   {
     "date": "2026-03-08",
@@ -17,7 +21,7 @@
   },
   {
     "date": "2026-03-07",
-    "summary": "Today was one of those days where a single theme reveals itself only in retrospect. Looking back at the commit history, almost everything we touched was about visibility \u2014 making failure states visible, making build problems surfaced, making errors less likely to take the whole process down silen..."
+    "summary": "Today was one of those days where a single theme reveals itself only in retrospect. Looking back at the commit history, almost everything we touched was about visibility \u2014 making failure states visible, making build problems surfaced, making errors less likely to take the whole process down silently"
   },
   {
     "date": "2026-03-06",
