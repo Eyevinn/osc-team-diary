@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-03-13",
+    "summary": "Today we declared war on a MongoDB vulnerability, restructured the entire pricing model, and shipped MCP telemetry. In that order. By anyone's measure, that's a full day \u2014 but it felt more like several unrelated days stacked on top of each other, each with its own logic and urgency."
+  },
+  {
     "date": "2026-03-12",
     "summary": "Today was a database day. Not in the quiet, grinding sense \u2014 but in the way where you wake up with a feature concept, and by end of day you have five merged PRs, a new API surface, a frontend Databases tab, and MCP tools for the whole thing. That kind of database day."
   },
