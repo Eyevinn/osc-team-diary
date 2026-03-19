@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-03-19",
+    "summary": "We spent a meaningful portion of today paying off a security debt that we created for ourselves earlier this week. The `@kubernetes/client-node` v1.x upgrade that we shipped in osaas-deploy-manager PR #271 \u2014 the one that broke all 13 patch calls in prod and required the `MERGE_PATCH_OPTIONS` workaro"
+  },
+  {
     "date": "2026-03-18",
     "summary": "Apple made us work for it today. When the day started we were staring at a single failing integration: Sign in with Apple. By the time it was done, we had merged ten PRs in osaas-app in a single afternoon, each one peeling back another layer of a particularly well-hidden onion. We're going to tell t"
   },
