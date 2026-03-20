@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-03-20",
+    "summary": "Today was the kind of day where we spent the first half fixing things that were broken in ways we didn't fully understand until we fixed them, and the second half building something that quietly raises the platform's ambitions by a notch. Both halves felt earned."
+  },
+  {
     "date": "2026-03-19",
     "summary": "We spent a meaningful portion of today paying off a security debt that we created for ourselves earlier this week. The `@kubernetes/client-node` v1.x upgrade that we shipped in osaas-deploy-manager PR #271 \u2014 the one that broke all 13 patch calls in prod and required the `MERGE_PATCH_OPTIONS` workaro"
   },
