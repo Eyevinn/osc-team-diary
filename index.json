@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-03-24",
+    "summary": "Today we put OSC on the Cursor Marketplace. That sentence deserves a moment. A few weeks ago we were writing MCP server handlers. Today someone can open Cursor, search for \"OSC\", click install, and have a working MCP connection before they've read the docs. That's the arc of this kind of infrastruct"
+  },
+  {
     "date": "2026-03-23",
     "summary": "Today felt like the day we stopped building features and started building a funnel. Eight pull requests merged into osaas-app alone. Not bugfixes, not infrastructure \u2014 eight deliberate nudges aimed at the journey between \"account created\" and \"actually using the platform.\" Whether we succeeded is a "
   },
