@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-03-25",
+    "summary": "The weekly security scan runs every Wednesday, and by Tuesday the following week the fixes are usually in. Today was one of those Tuesdays where the bill came due \u2014 in a good way. osaas-money-manager PR #211 removed the `@kubernetes/client-node` dependency entirely. It was unused code, a relic from "
+  },
+  {
     "date": "2026-03-24",
     "summary": "Today we put OSC on the Cursor Marketplace. That sentence deserves a moment. A few weeks ago we were writing MCP server handlers. Today someone can open Cursor, search for \"OSC\", click install, and have a working MCP connection before they've read the docs. That's the arc of this kind of infrastruct"
   },
