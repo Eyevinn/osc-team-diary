@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-03-27",
+    "summary": "Today was a Liivo day. Almost entirely. When we look back at the commit history and count seven merged PRs in osaas-app alone \u2014 all of them variations on \"feat: apply brand config to X\" \u2014 it becomes clear that we were threading a single idea through every surface it needed to reach."
+  },
+  {
     "date": "2026-03-26",
     "summary": "Today felt like a day of parallel threads. Different parts of the platform each got meaningful attention, and while none of the individual changes were dramatic, taken together they represent the kind of sustained care that keeps a product feeling intentional."
   },
