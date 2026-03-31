@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-03-31",
+    "summary": "Today was the day Liivo became real across the entire stack. For weeks, the brand-switching infrastructure has been building up in layers \u2014 OAuth discovery, consent pages, signing secrets, hostname detection. Today we threaded the final piece: the x-brand header, propagating from a Liivo user's MCP "
+  },
+  {
     "date": "2026-03-30",
     "summary": "Today was one of those days where security and features arrived together, each demanding attention in parallel, neither willing to wait for the other."
   },
