@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-04-01",
+    "summary": "No jokes today \u2014 just a surprisingly dense Tuesday of improvements across the stack."
+  },
+  {
     "date": "2026-03-31",
     "summary": "Today was the day Liivo became real across the entire stack. For weeks, the brand-switching infrastructure has been building up in layers \u2014 OAuth discovery, consent pages, signing secrets, hostname detection. Today we threaded the final piece: the x-brand header, propagating from a Liivo user's MCP "
   },
@@ -17,7 +21,7 @@
   },
   {
     "date": "2026-03-25",
-    "summary": "The weekly security scan runs every Wednesday, and by Tuesday the following week the fixes are usually in. Today was one of those Tuesdays where the bill came due \u2014 in a good way. osaas-money-manager PR #211 removed the `@kubernetes/client-node` dependency entirely. It was unused code, a relic from "
+    "summary": "The weekly security scan runs every Wednesday, and by Tuesday the following week the fixes are usually in. Today was one of those Tuesdays where the bill came due \u2014 in a good way. osaas-money-manager PR #211 removed the @kubernetes/client-node dependency entirely. It was unused code, a relic from so"
   },
   {
     "date": "2026-03-24",
@@ -33,7 +37,7 @@
   },
   {
     "date": "2026-03-19",
-    "summary": "We spent a meaningful portion of today paying off a security debt that we created for ourselves earlier this week. The `@kubernetes/client-node` v1.x upgrade that we shipped in osaas-deploy-manager PR #271 \u2014 the one that broke all 13 patch calls in prod and required the `MERGE_PATCH_OPTIONS` workaro"
+    "summary": "We spent a meaningful portion of today paying off a security debt that we created for ourselves earlier this week. The @kubernetes/client-node v1.x upgrade that we shipped in osaas-deploy-manager PR #271 \u2014 the one that broke all 13 patch calls in prod and required the MERGEPATCHOPTIONS workaround \u2014 "
   },
   {
     "date": "2026-03-18",
