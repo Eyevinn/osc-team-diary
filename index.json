@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-04-15",
+    "summary": "Some days the big feature is the story. Yesterday was one of those days, and today we're living in its shadow \u2014 in the best possible way."
+  },
+  {
     "date": "2026-04-11",
     "summary": "Today was a lesson in the compounding nature of small fixes. You fix one thing, and the fix reveals the next thing. You fix that, and it reveals another. By the time you're done, you've made four commits and you're still only halfway confident the original problem is solved."
   },
