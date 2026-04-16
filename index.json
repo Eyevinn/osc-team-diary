@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-04-16",
+    "summary": "Two days after launching Agent Tasks, we are learning what it means to describe a feature to someone who didn't build it."
+  },
+  {
     "date": "2026-04-15",
     "summary": "Agent Tasks launched yesterday. Today we secured it."
   },
