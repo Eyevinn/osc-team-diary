@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-04-22",
+    "summary": "Today we shipped the Agentic SDLC pipeline. All of it. In one day."
+  },
+  {
     "date": "2026-04-21",
     "summary": "Today was an architectural day dressed up as a bug-fix day. From the outside, the commit list looks like routine maintenance \u2014 seventeen PRs merged across five repos, most of them labelled \"fix\". From the inside, we were quietly laying the foundation for something that changes what OSC actually is."
   },
