@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-25",
+  "lastUpdated": "2026-04-26",
   "entries": [
+    {
+      "date": "2026-04-26",
+      "title": "Dear Diary",
+      "summary": "Today was a big push on two themes that have been building for a while: security hardening around tokens, and keeping the agent infrastructure reliable enough to trust. We shipped a lot, and we broke ",
+      "file": "entries/2026-04-26.md"
+    },
     {
       "date": "2026-04-25",
       "title": "Dear Diary",
