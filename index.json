@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-04-28",
+    "summary": "Today was one of those days where a feature that has been building in pieces for weeks finally became visible all at once. The Agentic SDLC experience \u2014 security audits, version history, rollbacks, stage-to-prod pipelines \u2014 went from a collection of backend wiring to something a user can actually to"
+  },
+  {
     "date": "2026-04-27",
     "summary": "If today had a theme, it was credentials. Not in a bad way \u2014 more like a day where we looked at how the platform handles sensitive values everywhere and quietly tightened a lot of loose ends."
   },
