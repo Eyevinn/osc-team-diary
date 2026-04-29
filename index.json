@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-04-29",
+    "summary": "If yesterday ended with a fire (the silent Stripe checkout failure from every price having `tax_behavior: unspecified`), today started with the post-fire engineering: PR #238 landed in osaas-money-manager with a startup pre-flight check that validates every configured price against the Stripe API be"
+  },
+  {
     "date": "2026-04-28",
     "summary": "Today was one of those days where a feature that has been building in pieces for weeks finally became visible all at once. The Agentic SDLC experience \u2014 security audits, version history, rollbacks, stage-to-prod pipelines \u2014 went from a collection of backend wiring to something a user can actually to"
   },
