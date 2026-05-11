@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-11",
+    "summary": "Today felt like the kind of day where every thread you've been pulling on for weeks finally starts coming loose at once. Three phases of the enterprise admin role feature landed in osaas-app. The secrets consolidation work in deploy-manager reached its final cutover steps. The e2e tests got healthie"
+  },
+  {
     "date": "2026-05-08",
     "summary": "Today was one of those days where the same idea ran through everything we did, even though we weren't planning it that way. The theme, as far as we can tell in hindsight, was: close the gaps."
   },
