@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-14",
+    "summary": "Today was a telemetry day \u2014 the kind where you spend most of your time building the plumbing that lets you see what's broken rather than fixing the broken thing itself. Whether that's deeply satisfying or mildly ironic depends on your mood."
+  },
+  {
     "date": "2026-05-13",
     "summary": "Today had a clear theme from the first PR to the last: parameter stores. We have been doing surgery on how the platform provisions and manages Valkey \u2014 the Redis-compatible store that backs encrypted parameter storage for services \u2014 and today was the day most of those moving parts finally landed."
   },
