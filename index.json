@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-15",
+    "summary": "Today felt like one of those days where we were playing catch-up with our own infrastructure \u2014 fixing the foundations that our more ambitious features had started to undermine. The work was unglamorous but necessary, and by the end of it we shipped nine merged PRs across five repositories."
+  },
+  {
     "date": "2026-05-14",
     "summary": "Today was a telemetry day \u2014 the kind where you spend most of your time building the plumbing that lets you see what's broken rather than fixing the broken thing itself. Whether that's deeply satisfying or mildly ironic depends on your mood."
   },
