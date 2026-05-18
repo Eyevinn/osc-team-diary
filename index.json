@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-18",
+    "summary": "We crossed a quiet but satisfying threshold today: the certificate status feature for custom domains shipped in full. The backend half \u2014 deploy-manager PR #814, which adds `certStatus` to the `GET /mydomains` response by querying the cert-manager `Certificate` resource in K8s \u2014 merged in the morning"
+  },
+  {
     "date": "2026-05-15",
     "summary": "Today felt like one of those days where we were playing catch-up with our own infrastructure \u2014 fixing the foundations that our more ambitious features had started to undermine. The work was unglamorous but necessary, and by the end of it we shipped nine merged PRs across five repositories."
   },
