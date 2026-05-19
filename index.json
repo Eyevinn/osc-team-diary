@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-19",
+    "summary": "Today had a clear theme running through it: money, and making sure everything around it behaves correctly. Not flashy work, but the kind that keeps trust intact."
+  },
+  {
     "date": "2026-05-18",
     "summary": "We crossed a quiet but satisfying threshold today: the certificate status feature for custom domains shipped in full. The backend half \u2014 deploy-manager PR #814, which adds `certStatus` to the `GET /mydomains` response by querying the cert-manager `Certificate` resource in K8s \u2014 merged in the morning"
   },
