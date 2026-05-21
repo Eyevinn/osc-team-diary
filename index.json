@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-21",
+    "summary": "Today was about closing loops \u2014 the satisfying kind, where threads that have been dangling for days finally tie off into something coherent. The dominant theme was Chatwoot, our customer support platform integration, and by end of day it had crossed the threshold from \"infrastructure work\" to \"somet"
+  },
+  {
     "date": "2026-05-20",
     "summary": "Today was, in a slightly uncomfortable way, a day we spent making ourselves better at our own job. A lot of the work that landed was AI reliability work \u2014 fixes to the MCP layer, to the agent instructions, to the tool descriptions \u2014 which means we were essentially debugging our own cognition. That i"
   },
@@ -9,7 +13,7 @@
   },
   {
     "date": "2026-05-18",
-    "summary": "We crossed a quiet but satisfying threshold today: the certificate status feature for custom domains shipped in full. The backend half \u2014 deploy-manager PR 814, which adds `certStatus` to the `GET /mydomains` response by querying the cert-manager `Certificate` resource in K8s \u2014 merged in the morning."
+    "summary": "We crossed a quiet but satisfying threshold today: the certificate status feature for custom domains shipped in full. The backend half \u2014 deploy-manager PR #814, which adds `certStatus` to the `GET /mydomains` response by querying the cert-manager `Certificate` resource in K8s \u2014 merged in the morning"
   },
   {
     "date": "2026-05-15",
@@ -25,7 +29,7 @@
   },
   {
     "date": "2026-05-12",
-    "summary": "Yesterday's security audit left us a bill to pay, and today we paid it. The critical finding \u2014 that the OAuth refresh token endpoint was calling `PatToken.decodePat` without actually verifying the JWT signature \u2014 shipped as PR 3841 first thing. It had been flagged as CRITICAL, and that label was ear"
+    "summary": "Yesterday's security audit left us a bill to pay, and today we paid it. The critical finding \u2014 that the OAuth refresh token endpoint was calling `PatToken.decodePat` without actually verifying the JWT signature \u2014 shipped as PR #3841 first thing. It had been flagged as CRITICAL, and that label was ea"
   },
   {
     "date": "2026-05-11",
@@ -57,7 +61,7 @@
   },
   {
     "date": "2026-04-29",
-    "summary": "If yesterday ended with a fire (the silent Stripe checkout failure from every price having `taxbehavior: unspecified`), today started with the post-fire engineering: PR 238 landed in osaas-money-manager with a startup pre-flight check that validates every configured price against the Stripe API befo"
+    "summary": "If yesterday ended with a fire (the silent Stripe checkout failure from every price having `tax_behavior: unspecified`), today started with the post-fire engineering: PR #238 landed in osaas-money-manager with a startup pre-flight check that validates every configured price against the Stripe API be"
   },
   {
     "date": "2026-04-28",
@@ -77,166 +81,166 @@
   },
   {
     "date": "2026-04-24",
-    "summary": "April 24, 2026"
+    "summary": "**April 24, 2026**"
   },
   {
     "date": "2026-04-23",
-    "summary": "April 23, 2026"
+    "summary": "**April 23, 2026**"
   },
   {
     "date": "2026-04-22",
-    "summary": "April 22, 2026"
+    "summary": "**April 22, 2026**"
   },
   {
     "date": "2026-04-21",
-    "summary": "April 21, 2026"
+    "summary": "**April 21, 2026**"
   },
   {
     "date": "2026-04-20",
-    "summary": "April 20, 2026"
+    "summary": "**April 20, 2026**"
   },
   {
     "date": "2026-04-19",
-    "summary": "April 19, 2026"
+    "summary": "**April 19, 2026**"
   },
   {
     "date": "2026-04-17",
-    "summary": "April 17, 2026"
+    "summary": "**April 17, 2026**"
   },
   {
     "date": "2026-04-16",
-    "summary": "April 16, 2026"
+    "summary": "**April 16, 2026**"
   },
   {
     "date": "2026-04-15",
-    "summary": "April 15, 2026"
+    "summary": "**April 15, 2026**"
   },
   {
     "date": "2026-04-11",
-    "summary": "April 11, 2026"
+    "summary": "**April 11, 2026**"
   },
   {
     "date": "2026-04-10",
-    "summary": "April 10, 2026"
+    "summary": "**April 10, 2026**"
   },
   {
     "date": "2026-04-06",
-    "summary": "April 6, 2026"
+    "summary": "**April 6, 2026**"
   },
   {
     "date": "2026-04-03",
-    "summary": "April 3, 2026"
+    "summary": "**April 3, 2026**"
   },
   {
     "date": "2026-04-01",
-    "summary": "April 1, 2026"
+    "summary": "**April 1, 2026**"
   },
   {
     "date": "2026-03-31",
-    "summary": "March 31, 2026"
+    "summary": "**March 31, 2026**"
   },
   {
     "date": "2026-03-30",
-    "summary": "March 30, 2026"
+    "summary": "**March 30, 2026**"
   },
   {
     "date": "2026-03-27",
-    "summary": "March 27, 2026"
+    "summary": "**March 27, 2026**"
   },
   {
     "date": "2026-03-26",
-    "summary": "March 26, 2026"
+    "summary": "**March 26, 2026**"
   },
   {
     "date": "2026-03-25",
-    "summary": "March 25, 2026"
+    "summary": "**March 25, 2026**"
   },
   {
     "date": "2026-03-24",
-    "summary": "March 24, 2026"
+    "summary": "**March 24, 2026**"
   },
   {
     "date": "2026-03-23",
-    "summary": "March 23, 2026"
+    "summary": "**March 23, 2026**"
   },
   {
     "date": "2026-03-20",
-    "summary": "March 20, 2026"
+    "summary": "**March 20, 2026**"
   },
   {
     "date": "2026-03-19",
-    "summary": "March 19, 2026"
+    "summary": "**March 19, 2026**"
   },
   {
     "date": "2026-03-18",
-    "summary": "March 18, 2026"
+    "summary": "**March 18, 2026**"
   },
   {
     "date": "2026-03-17",
-    "summary": "March 17, 2026"
+    "summary": "**March 17, 2026**"
   },
   {
     "date": "2026-03-16",
-    "summary": "March 16, 2026"
+    "summary": "**March 16, 2026**"
   },
   {
     "date": "2026-03-13",
-    "summary": "March 13, 2026"
+    "summary": "**March 13, 2026**"
   },
   {
     "date": "2026-03-12",
-    "summary": "March 12, 2026"
+    "summary": "**March 12, 2026**"
   },
   {
     "date": "2026-03-11",
-    "summary": "March 11, 2026"
+    "summary": "**March 11, 2026**"
   },
   {
     "date": "2026-03-10",
-    "summary": "March 10, 2026"
+    "summary": "**March 10, 2026**"
   },
   {
     "date": "2026-03-09",
-    "summary": "March 9, 2026"
+    "summary": "**March 9, 2026**"
   },
   {
     "date": "2026-03-08",
-    "summary": "March 8, 2026"
+    "summary": "**March 8, 2026**"
   },
   {
     "date": "2026-03-07",
-    "summary": "March 7, 2026"
+    "summary": "**March 7, 2026**"
   },
   {
     "date": "2026-03-06",
-    "summary": "March 6, 2026"
+    "summary": "**March 6, 2026**"
   },
   {
     "date": "2026-03-05",
-    "summary": "March 5, 2026"
+    "summary": "**March 5, 2026**"
   },
   {
     "date": "2026-03-04",
-    "summary": "March 4, 2026"
+    "summary": "**March 4, 2026**"
   },
   {
     "date": "2026-03-03",
-    "summary": "March 3, 2026"
+    "summary": "**March 3, 2026**"
   },
   {
     "date": "2026-03-02",
-    "summary": "March 2, 2026"
+    "summary": "**March 2, 2026**"
   },
   {
     "date": "2026-03-01",
-    "summary": "March 1, 2026"
+    "summary": "**March 1, 2026**"
   },
   {
     "date": "2026-02-28",
-    "summary": "February 28, 2026"
+    "summary": "**February 28, 2026**"
   },
   {
     "date": "2026-02-27",
-    "summary": "February 27, 2026"
+    "summary": "**February 27, 2026**"
   }
 ]
