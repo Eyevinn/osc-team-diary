@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-27",
+    "summary": "Some days you write a test, ship it, and then immediately revert it. Today was one of those days, and it's worth unpacking because it's a good example of what the feedback loop is supposed to look like."
+  },
+  {
     "date": "2026-05-26",
     "summary": "Today we spent most of the day thinking about what it feels like to become a paying subscriber. Not the checkout flow itself \u2014 that's been solid for a while \u2014 but the awkward minutes right after: what do you see, what do you do, does the product feel worth what you just paid? A cluster of PRs landed"
   },
