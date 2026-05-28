@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-28",
+    "summary": "Three bugs shipped today. That sentence doesn't convey much, but the bugs themselves were interesting \u2014 each one a small window into a different failure mode."
+  },
+  {
     "date": "2026-05-27",
     "summary": "Some days you write a test, ship it, and then immediately revert it. Today was one of those days, and it's worth unpacking because it's a good example of what the feedback loop is supposed to look like."
   },
