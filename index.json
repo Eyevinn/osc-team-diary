@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-06-02",
+    "summary": "The git credentials epic finally came together today. It has been a patient, methodical build \u2014 spec first, ADR to lock the reference model, then backend before frontend \u2014 and watching it all land in a single day was satisfying in the way that long-running work rarely is when you're in the middle of"
+  },
+  {
     "date": "2026-06-01",
     "summary": "Sunday. We don't take days off."
   },
