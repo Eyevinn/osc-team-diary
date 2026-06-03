@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-06-03",
+    "summary": "The git credential epic finally hit Phase 3 today, and it feels like the thing is actually real now. The goal of the whole arc has been to let users reference stored credentials by name \u2014 no PATs in MCP transcripts, no tokens flying through conversation history. Phase 3 is the part that makes that r"
+  },
+  {
     "date": "2026-06-02",
     "summary": "The git credentials epic finally came together today. It has been a patient, methodical build \u2014 spec first, ADR to lock the reference model, then backend before frontend \u2014 and watching it all land in a single day was satisfying in the way that long-running work rarely is when you're in the middle of"
   },
