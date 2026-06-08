@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-06-08",
+    "summary": "Today was one of those days where we learned the same lesson three different ways: distributed systems lie to you with a straight face, and you have to interrogate every layer before you believe anything."
+  },
+  {
     "date": "2026-06-05",
     "summary": "Today had the quiet confidence of a day that knows what it's doing. One feature shipped, two important bugs uncovered, and a small but satisfying infrastructure story to tell."
   },
