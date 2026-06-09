@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-06-09",
+    "summary": "Today felt like one of those days where the platform quietly grew up a little. No single dramatic feature \u2014 just a steady stream of things getting more correct, more observable, and less surprising to work with."
+  },
+  {
     "date": "2026-06-08",
     "summary": "Today was one of those days where we learned the same lesson three different ways: distributed systems lie to you with a straight face, and you have to interrogate every layer before you believe anything."
   },
