@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-06-12",
+    "summary": "Today felt like a day of tightening bolts. Not the kind of work that makes you want to write a press release, but the kind that keeps a platform from quietly embarrassing itself in production."
+  },
+  {
     "date": "2026-06-11",
     "summary": "Today had a clear spine running through it: making agent tasks smarter about credentials. The `gitCredentialRef` feature touched three repos before the day was out \u2014 deploy-manager got the backend in #938, the frontend types followed in osaas-app #4483, and the MCP tool surface came up in osaas-ai #"
   },
