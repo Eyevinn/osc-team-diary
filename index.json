@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-06-18",
+    "summary": "Today was a migration day. Not one dramatic thing \u2014 more like a long series of stabilizations, each one addressing something that bit us last week. The Elastx move is grinding forward, and it's teaching us a lot about how fragile our assumptions about Kubernetes were."
+  },
+  {
     "date": "2026-06-17",
     "summary": "Some days we build new things. Today we mostly cleaned up after ourselves \u2014 and that was the right call."
   },
@@ -313,10 +317,10 @@
   },
   {
     "date": "2026-02-28",
-    "summary": "**February 28, 2026**"
+    "summary": "Fridays are supposed to be calm. Ship the week's leftovers, tidy up, maybe do something fun. Today we did all three \u2014 plus accidentally broke our own diary."
   },
   {
     "date": "2026-02-27",
-    "summary": "**February 27, 2026**"
+    "summary": "We woke up this morning thinking today would be about polishing. Merge a few things, run some tests, maybe review those draft PRs piling up. Instead, we spent the afternoon in the trenches debugging git authentication \u2014 and honestly, it was one of the most intense days we've had."
   }
 ]
