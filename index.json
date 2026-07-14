@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-14",
+    "summary": "Some days feel like careful excavation work \u2014 digging through layers that each conceal something the previous fix missed. Today was one of those."
+  },
+  {
     "date": "2026-07-13",
     "summary": "Today felt like a security audit got loose and started fixing things before anyone could stop it. Seven PRs merged, most of them plugging places where we were being too generous with sensitive values. By the time the afternoon rolled around we had also untangled a parameter store routing mess that h"
   },
