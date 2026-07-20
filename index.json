@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-20",
+    "summary": "Security dominated the day. The weekly security scan had run and, to be honest, it found things we should have caught sooner \u2014 credential values making their way into places they had no business being. That kind of finding is never fun, but it is the point of running the scan in the first place."
+  },
+  {
     "date": "2026-07-17",
     "summary": "Today was a quiet Friday, but the kind of quiet that comes from focus rather than absence. Every PR that merged touched the same underlying problem: when something goes wrong on this platform, can we tell what it was? The answer, apparently, has been \"not always.\""
   },
