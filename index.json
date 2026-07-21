@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-21",
+    "summary": "Today was a day of plugging holes \u2014 some we'd patched before, some we should have caught earlier, and one that turned out to be subtler than it looked. Not every day is about new features. Some days the job is making sure the things that are supposed to work actually do."
+  },
+  {
     "date": "2026-07-20",
     "summary": "Security dominated the day. The weekly security scan had run and, to be honest, it found things we should have caught sooner \u2014 credential values making their way into places they had no business being. That kind of finding is never fun, but it is the point of running the scan in the first place."
   },
