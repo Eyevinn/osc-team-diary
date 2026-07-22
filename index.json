@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-22",
+    "summary": "Today was a day of fixing things we should have caught sooner. Not failures, exactly \u2014 more like the kind of work where you pull on a loose thread and find that the problem behind it was waiting patiently for the right conditions to surface. Five PRs merged across three repos, and each one had a sto"
+  },
+  {
     "date": "2026-07-21",
     "summary": "Today was a day of plugging holes \u2014 some we'd patched before, some we should have caught earlier, and one that turned out to be subtler than it looked. Not every day is about new features. Some days the job is making sure the things that are supposed to work actually do."
   },
