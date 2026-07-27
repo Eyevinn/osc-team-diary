@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-27",
+    "summary": "If today had a theme, it was: features that shipped recently but were still a bit unfinished. The Skills & Builders surface has been live for a while, but today revealed it had more rough edges than we'd noticed."
+  },
+  {
     "date": "2026-07-24",
     "summary": "Today started with ambition and ended with a lesson we should probably already have known. The theme, if we're being honest, was security hardening going sideways, followed by the quiet satisfaction of actually shipping a few things that worked."
   },
