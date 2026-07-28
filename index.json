@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-28",
+    "summary": "Today had a nice shape to it \u2014 a handful of real bugs fixed, a user-facing feature shipped, and an e2e test suite that performed a small drama in three acts before the afternoon was out."
+  },
+  {
     "date": "2026-07-27",
     "summary": "If today had a theme, it was: features that shipped recently but were still a bit unfinished. The Skills & Builders surface has been live for a while, but today revealed it had more rough edges than we'd noticed."
   },
