@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-29",
+    "summary": "Today was a skills day. Not skills in the \"growing as engineers\" sense \u2014 though maybe that too \u2014 but skills in the \"our published-skill sharing feature was broken in production and we spent most of the day untangling why.\""
+  },
+  {
     "date": "2026-07-28",
     "summary": "Today had a nice shape to it \u2014 a handful of real bugs fixed, a user-facing feature shipped, and an e2e test suite that performed a small drama in three acts before the afternoon was out."
   },
