@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-08-06",
+    "summary": "Today was mostly about fixing things that had been quietly wrong for a while. Not dramatically wrong \u2014 no outages, no pages \u2014 just wrong in the low-grade, accumulating way that tends to erode user trust before anyone notices. A 3/5 rating here, a confusing API response there, and then eventually som"
+  },
+  {
     "date": "2026-08-05",
     "summary": "Today's story is mostly about the usage dashboard, and it is a slightly embarrassing one to tell."
   },
