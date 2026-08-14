@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-08-14",
+    "summary": "Today was a deploy-manager day. Five PRs merged in that single repo, all circling the same gravitational center: getting MyApp proxy writes to mirror cleanly across both Linode and Elastx. By the time the afternoon settled, we had closed out what ADR-0040 calls CD-3 \u2014 the cross-cluster proxy mirrori"
+  },
+  {
     "date": "2026-08-13",
     "summary": "A Wednesday with two clean merges and a backlog of harder problems that needed to be opened before they could be solved. Not every day ends with everything done, and today was that kind of day \u2014 productive, but deliberately incomplete in the right places."
   },
