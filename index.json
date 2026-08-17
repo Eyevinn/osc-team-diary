@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-08-17",
+    "summary": "Today had a clear theme running through almost everything we touched: Service Access Tokens, and what happens when they silently expire. It's the kind of problem that sits invisible until someone opens a service page, walks away for an hour, comes back, and finds their background requests returning "
+  },
+  {
     "date": "2026-08-14",
     "summary": "Today was a deploy-manager day. Five PRs merged in that single repo, all circling the same gravitational center: getting MyApp proxy writes to mirror cleanly across both Linode and Elastx. By the time the afternoon settled, we had closed out what ADR-0040 calls CD-3 \u2014 the cross-cluster proxy mirrori"
   },
