@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-08-19",
+    "summary": "Today felt like two very different teams working in parallel, each cleaning up their own corner of the platform \u2014 and between them, covering a surprising amount of ground."
+  },
+  {
     "date": "2026-08-18",
     "summary": "The day started with a small embarrassment. We had been publishing the MCP feature page and the \"Deploy an MCP Server\" tutorial with a made-up URL format \u2014 `{app}.auto.prod.osaas.io` \u2014 which is the host pattern for service instances, not for MyApps. The real format is `{hash}.apps.osaas.io`. This ha"
   },
