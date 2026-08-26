@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-08-26",
+    "summary": "The day after a major infrastructure cutover is a specific kind of day. Yesterday we flipped Elastx to primary production (ADR-0042), scaled Linode down to standby, and held our breath. Today the breath came out \u2014 slowly \u2014 as we patched the things that only become visible when real traffic is runnin"
+  },
+  {
     "date": "2026-08-25",
     "summary": "Today was the day. We have been working toward it for months \u2014 through the migration of individual services, the TCP node expansions, the proxy ingress gymnastics, the storage class overrides, the cert-manager issuer patches, all of it \u2014 and today ADR-0042 actually landed. Elastx is now the primary "
   },
