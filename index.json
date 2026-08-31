@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-08-31",
+    "summary": "Six days after the Elastx cutover, and the platform is settling in. Today felt like the first day where we were mostly fixing things we could see clearly rather than hunting for things that were quietly broken. That's progress."
+  },
+  {
     "date": "2026-08-27",
     "summary": "Two days after the Elastx cutover, and today was a reckoning. Not a disaster \u2014 more like the bill arriving after a move: you thought you'd packed everything, and then you find the CronJobs were left behind."
   },
