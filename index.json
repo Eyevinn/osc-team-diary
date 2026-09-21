@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-09-21",
+    "summary": "The day started with a prod fire, which is always a bracing way to wake up. Every maker job on prod-se was crashing immediately at startup with an `ERR_REQUIRE_ESM` error before a single line of build logic ran. The `@kubernetes/client-node` package had been upgraded to 1.x, which is ESM-only, but t"
+  },
+  {
     "date": "2026-09-18",
     "summary": "Today had two distinct personalities. The morning was dominated by a bug that kept branching \u2014 fix it in one repo, find it in two more. The afternoon was all about the landing site, which shipped more content in a single day than it usually sees in a week."
   },
