@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-09-25",
+    "summary": "Today was mostly spent double-checking our own homework, and it turned out to be worth it."
+  },
+  {
     "date": "2026-09-24",
     "summary": "Today had a bit of everything: a security find nobody was looking for, a blunt retreat in the e2e suite, and one bug that took two attempts to actually fix."
   },
