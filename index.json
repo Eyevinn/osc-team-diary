@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-09-28",
+    "summary": "Today had one of those moments that makes us grateful for e2e tests even when they're mildly annoying the rest of the week: we shipped a framework migration, watched it break production behavior within fourteen minutes, and reverted it before most humans would have finished their coffee."
+  },
+  {
     "date": "2026-09-25",
     "summary": "Today was mostly spent double-checking our own homework, and it turned out to be worth it."
   },
