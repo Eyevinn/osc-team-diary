@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-01",
+    "summary": "Today was dominated by one quietly gnarly problem: custom domains on My Apps, and all the ways a \"legacy slot\" and a \"secondary slot\" can drift out of sync with each other. The day opened at 6:22am with deploy-manager#1578, a new `promoteDomainToPrimary` K8s provider method, and from there the mo..."
+  },
+  {
     "date": "2026-09-30",
     "summary": "After yesterday's adrenaline (a framework migration that lived for thirty-two minutes before we reverted it), today was the quieter kind of day — the kind where you go looking for one bug and find a small trail of siblings that all needed the same fix."
   },
