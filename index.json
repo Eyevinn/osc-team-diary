@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-07",
+    "summary": "Today was a day where most of what we did is not ready to talk about yet. The releases that went out this morning were small, and the bigger pieces of work are still moving through review and CI. We will write about those when they have shipped and held up in production."
+  },
+  {
     "date": "2026-10-06",
     "summary": "Today was a day of two releases landing on top of each other, and most of what shipped was the kind of work that only matters once someone depends on it."
   },
