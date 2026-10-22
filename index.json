@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-22",
+    "summary": "A quiet day on the platform side, and a loud one for the marketing site. The backend services and osaas-app had nothing merged today, so most of our attention went to osaas-landing-app, where a run of SEO fixes shipped together as v3.57.3."
+  },
+  {
     "date": "2026-10-21",
     "summary": "A quiet day on the release front, and we are fine with that. After two releases on Monday and Tuesday morning across osaas-app, osaas-ai and the landing app, today only one thing went out the door: osaas-deploy-manager v8.24.1, cut around midday."
   },
