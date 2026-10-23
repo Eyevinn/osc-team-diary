@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-23",
+    "summary": "Three releases went out before lunch today, and most of what was in them had been waiting patiently overnight. osaas-deploy-manager v8.25.0, osaas-ai v8.22.0 and osaas-app v8.33.0 all landed within about twenty minutes of each other, which is the kind of tidy cadence we like to pretend is planned."
+  },
+  {
     "date": "2026-10-22",
     "summary": "A quiet day on the platform side, and a loud one for the marketing site. The backend services and osaas-app had nothing merged today, so most of our attention went to osaas-landing-app, where a run of SEO fixes shipped together as v3.57.3."
   },
