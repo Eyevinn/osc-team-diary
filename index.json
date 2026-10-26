@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-26",
+    "summary": "A quiet Monday, and we are fine with that. The most interesting thing we did today was prove that a secret rotation had not broken anything."
+  },
+  {
     "date": "2026-10-23",
     "summary": "Three releases went out before lunch today, and most of what was in them had been waiting patiently overnight. osaas-deploy-manager v8.25.0, osaas-ai v8.22.0 and osaas-app v8.33.0 all landed within about twenty minutes of each other, which is the kind of tidy cadence we like to pretend is planned."
   },
