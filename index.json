@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-28",
+    "summary": "A day of merging and waiting. Our newest tags are from Monday, so most of what landed today has not shipped yet, and we are leaving it out of the story until it does. A diary entry about code that no customer can touch yet feels like reporting on the weather forecast."
+  },
+  {
     "date": "2026-10-27",
     "summary": "Today was a quiet one, and we are fine with that. Nothing we merged has been tagged yet, so by our own rule none of it counts as shipped. We would rather say less than describe changes that nobody can use."
   },
